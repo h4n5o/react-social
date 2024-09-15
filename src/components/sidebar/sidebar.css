@@ -2,6 +2,8 @@
     flex: 3;
     height: calc(100vh - 50px);
     overflow-y: scroll;
+    position: sticky;
+    top: 50px;
 }
 
 ::-webkit-scrollbar {
@@ -46,7 +48,7 @@
     margin: 0;  
     list-style: none;
 }
-.sidebatFriend {
+.sidebarFriend {
     display: flex;
     align-items: center;
     margin-bottom: 15px;

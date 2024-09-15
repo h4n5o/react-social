@@ -2,17 +2,17 @@ export const Users = [
     {
       id:1,
       profilePicture: "assets/person/1.jpeg",
-      username: "Safak Kocaoglu",
+      username: "Martine Casalle",
     },
     {
       id:2,
       profilePicture: "assets/person/2.jpeg",
-      username: "Janell Shrum",
+      username: "Jamie Shrum",
     },
     {
       id:3,
       profilePicture: "assets/person/3.jpeg",
-      username: "Alex Durden",
+      username: "Alexa Durden",
     },
     {
       id:4,
@@ -22,7 +22,7 @@ export const Users = [
     {
       id:5,
       profilePicture: "assets/person/5.jpeg",
-      username: "Thomas Holden",
+      username: "Laura Holden",
     },
     {
       id:6,
@@ -42,12 +42,12 @@ export const Users = [
     {
       id:9,
       profilePicture: "assets/person/9.jpeg",
-      username: "Gary Duty",
+      username: "Grey Duty",
     },
     {
       id:10,
       profilePicture: "assets/person/10.jpeg",
-      username: "Safak Kocaoglu",
+      username: "Hilda Wilkins",
     },
   ];
   
